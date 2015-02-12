@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASHAY</Machine>
+    <WindowsUser>ashay</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>0cdb0dc1-4aa4-44e3-bf44-86920e5deff5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\bin\x86\Debug\BMSDemo.exe">
+      <PackagePath>BMSDemo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\HubBackground.theme-dark.png">
+      <PackagePath>Assets\HubBackground.theme-dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\HubBackground.theme-light.png">
+      <PackagePath>Assets\HubBackground.theme-light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\bin\x86\Debug\Pages\DetailsPage.xbf">
+      <PackagePath>Pages\DetailsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\bin\x86\Debug\Pages\HubPage.xbf">
+      <PackagePath>Pages\HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\bin\x86\Debug\Pages\MapControl1.xbf">
+      <PackagePath>Pages\MapControl1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\bin\x86\Debug\Pages\SectionPage.xbf">
+      <PackagePath>Pages\SectionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\bin\x86\Debug\BMSDemo.xr.xml">
+      <PackagePath>BMSDemo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ashay\documents\visual studio 2013\Projects\BMSDemo\BMSDemo\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
